@@ -1,0 +1,297 @@
+data_event_id,date,time,event,currency,impact,actual,forecast,previous
+132414,Oct 15,Day 7,IMF Meetings,All,yel,,,
+131239,Oct 15,5:30pm,BusinessNZ Services Index,NZD,yel,50.7,,47.7
+133287,Oct 15,7:01pm,Rightmove HPI m/m,GBP,yel,0.5%,,0.4%
+128999,Oct 16,12:30am,Revised Industrial Production m/m,JPY,yel,-0.7%,0.0%,0.0%
+131752,Oct 16,2:00am,German WPI m/m,EUR,yel,0.2%,0.3%,0.2%
+136737,Oct 16,4:30am,MPC Member Pill Speaks,GBP,yel,,,
+132735,Oct 16,5:00am,Trade Balance,EUR,yel,11.9B,5.4B,3.5B
+132202,Oct 16,All Day,Eurogroup Meetings,EUR,yel,,,
+132582,Oct 16,8:30am,Manufacturing Sales m/m,CAD,yel,0.7%,1.1%,1.6%
+132384,Oct 16,,Wholesale Sales m/m,CAD,yel,2.3%,2.5%,0.0%
+130049,Oct 16,,Empire State Manufacturing Index,USD,red,-4.6,-6.4,1.9
+132302,Oct 16,10:30am,BOC Business Outlook Survey,CAD,ora,,,
+136738,Oct 16,,FOMC Member Harker Speaks,USD,ora,,,
+136832,Oct 16,4:30pm,FOMC Member Harker Speaks,USD,ora,,,
+130986,Oct 16,5:45pm,CPI q/q,NZD,red,1.8%,1.9%,1.1%
+130312,Oct 16,8:30pm,Monetary Policy Meeting Minutes,AUD,red,,,
+129018,Oct 17,12:30am,Tertiary Industry Activity m/m,JPY,yel,-0.1%,0.4%,1.1%
+133481,Oct 17,2:00am,Average Earnings Index 3m/y,GBP,red,8.1%,8.3%,8.5%
+132096,Oct 17,5:00am,German ZEW Economic Sentiment,EUR,ora,-1.1,-9.1,-11.4
+132097,Oct 17,,ZEW Economic Sentiment,EUR,yel,2.3,-7.7,-8.9
+136830,Oct 17,5:03am,30-y Bond Auction,GBP,yel,4.93|2.6,,4.94|2.8
+136739,Oct 17,5:05am,MPC Member Dhingra Speaks,GBP,yel,,,
+132214,Oct 17,All Day,ECOFIN Meetings,EUR,yel,,,
+136740,Oct 17,8:00am,FOMC Member Williams Speaks,USD,yel,,,
+132352,Oct 17,8:30am,CPI m/m,CAD,red,-0.1%,0.1%,0.4%
+132348,Oct 17,,Median CPI y/y,CAD,red,3.8%,4.0%,4.1%
+132349,Oct 17,,Trimmed CPI y/y,CAD,red,3.7%,3.8%,3.9%
+132350,Oct 17,,Common CPI y/y,CAD,ora,4.4%,4.7%,4.8%
+132550,Oct 17,,Foreign Securities Purchases,CAD,yel,-8.47B,11.78B,13.93B
+129869,Oct 17,,Core Retail Sales m/m,USD,red,0.6%,0.2%,0.9%
+129870,Oct 17,,Retail Sales m/m,USD,red,0.7%,0.3%,0.8%
+132351,Oct 17,8:32am,Core CPI m/m,CAD,yel,-0.1%,,0.1%
+129595,Oct 17,9:15am,Industrial Production m/m,USD,ora,0.3%,0.0%,0.0%
+129600,Oct 17,,Capacity Utilization Rate,USD,yel,79.7%,79.6%,79.5%
+136833,Oct 17,9:20am,FOMC Member Bowman Speaks,USD,yel,,,
+131279,Oct 17,10:00am,Business Inventories m/m,USD,yel,0.4%,0.3%,0.1%
+132263,Oct 17,,NAHB Housing Market Index,USD,yel,40,44,44
+128751,Oct 17,10:50am,GDT Price Index,NZD,yel,4.3%,,4.4%
+136831,Oct 17,1:00pm,German Buba President Nagel Speaks,EUR,yel,,,
+136741,Oct 17,6:35pm,RBA Gov Bullock Speaks,AUD,red,,,
+131164,Oct 17,7:30pm,MI Leading Index m/m,AUD,yel,0.1%,,0.0%
+131641,Oct 17,10:00pm,Industrial Production y/y,CNY,red,4.5%,4.4%,4.5%
+131640,Oct 17,,GDP q/y,CNY,ora,4.9%,4.5%,6.3%
+131643,Oct 17,,Retail Sales y/y,CNY,ora,5.5%,5.0%,4.6%
+131639,Oct 17,,Fixed Asset Investment ytd/y,CNY,yel,3.1%,3.2%,3.2%
+131642,Oct 17,,NBS Press Conference,CNY,yel,,,
+131644,Oct 17,,Unemployment Rate,CNY,yel,5.0%,5.2%,5.2%
+133437,Oct 18,2:00am,CPI y/y,GBP,red,6.7%,6.6%,6.7%
+133436,Oct 18,,Core CPI y/y,GBP,yel,6.1%,6.0%,6.2%
+133439,Oct 18,,PPI Input m/m,GBP,yel,0.4%,0.8%,0.8%
+133440,Oct 18,,PPI Output m/m,GBP,yel,0.4%,0.3%,0.2%
+133438,Oct 18,,RPI y/y,GBP,yel,8.9%,8.9%,9.1%
+129308,Oct 18,4:00am,Italian Trade Balance,EUR,yel,2.07B,6.05B,6.11B
+133441,Oct 18,4:30am,HPI y/y,GBP,yel,0.2%,-0.5%,0.7%
+132680,Oct 18,5:00am,Final Core CPI y/y,EUR,yel,4.5%,4.5%,4.5%
+132679,Oct 18,,Final CPI y/y,EUR,yel,4.3%,4.3%,4.3%
+131680,Oct 18,5:34am,German 10-y Bond Auction,EUR,yel,2.90|2.0,,2.78|2.0
+132863,Oct 18,8:15am,Housing Starts,CAD,yel,270K,241K,250K
+129954,Oct 18,8:30am,Building Permits,USD,ora,1.47M,1.45M,1.54M
+129953,Oct 18,,Housing Starts,USD,yel,1.36M,1.39M,1.27M
+131099,Oct 18,10:30am,CB Leading Index m/m,AUD,yel,-0.3%,,0.2%
+129440,Oct 18,,Crude Oil Inventories,USD,yel,-4.5M,-0.5M,10.2M
+136834,Oct 18,12:00pm,FOMC Member Waller Speaks,USD,ora,,,
+136742,Oct 18,12:30pm,FOMC Member Williams Speaks,USD,yel,,,
+136835,Oct 18,1:00pm,FOMC Member Bowman Speaks,USD,yel,,,
+130506,Oct 18,2:00pm,Beige Book,USD,yel,,,
+136743,Oct 18,3:15pm,FOMC Member Harker Speaks,USD,ora,,,
+131306,Oct 18,4:00pm,TIC Long-Term Purchases,USD,yel,63.5B,76.8B,9.5B
+136836,Oct 18,6:55pm,FOMC Member Cook Speaks,USD,yel,,,
+129006,Oct 18,7:50pm,Trade Balance,JPY,yel,-0.43T,-0.54T,-0.55T
+131065,Oct 18,8:30pm,Employment Change,AUD,red,6.7K,20.6K,63.3K
+131064,Oct 18,,Unemployment Rate,AUD,red,3.6%,3.7%,3.7%
+131153,Oct 18,,NAB Quarterly Business Confidence,AUD,yel,-1,,-4
+136815,Oct 18,9:30pm,New Home Prices m/m,CNY,yel,-0.30%,,-0.29%
+130824,Oct 19,12:30am,RBA Annual Report,AUD,yel,,,
+131364,Oct 19,2:00am,Trade Balance,CHF,yel,6.32B,3.77B,3.81B
+132638,Oct 19,4:00am,Current Account,EUR,yel,27.7B,,21.0B
+136842,Oct 19,4:40am,Spanish 10-y Bond Auction,EUR,yel,4.07|2.1,,3.98|2.3
+132616,Oct 19,8:30am,IPPI m/m,CAD,yel,0.4%,0.3%,1.9%
+132615,Oct 19,,RMPI m/m,CAD,yel,3.5%,1.8%,3.0%
+130241,Oct 19,,Unemployment Claims,USD,red,198K,210K,211K
+130113,Oct 19,,Philly Fed Manufacturing Index,USD,ora,-9.0,-6.7,-13.5
+136837,Oct 19,9:00am,FOMC Member Jefferson Speaks,USD,yel,,,
+131267,Oct 19,10:00am,Existing Home Sales,USD,ora,3.96M,3.89M,4.04M
+131435,Oct 19,,CB Leading Index m/m,USD,yel,-0.7%,-0.4%,-0.5%
+128468,Oct 19,10:30am,Natural Gas Storage,USD,yel,97B,82B,84B
+136744,Oct 19,12:00pm,Fed Chair Powell Speaks,USD,red,,,
+136745,Oct 19,1:20pm,FOMC Member Goolsbee Speaks,USD,yel,,,
+136838,Oct 19,1:30pm,FOMC Member Barr Speaks,USD,yel,,,
+136746,Oct 19,5:30pm,FOMC Member Harker Speaks,USD,ora,,,
+130920,Oct 19,5:45pm,Trade Balance,NZD,yel,-2329M,-1450M,-2273M
+136748,Oct 19,7:00pm,FOMC Member Logan Speaks,USD,yel,,,
+133281,Oct 19,7:01pm,GfK Consumer Confidence,GBP,yel,-30,-20,-21
+128853,Oct 19,7:30pm,National Core CPI y/y,JPY,yel,2.8%,2.7%,3.1%
+134407,Oct 19,9:15pm,1-y Loan Prime Rate,CNY,ora,3.45%,3.45%,3.45%
+134355,Oct 19,,5-y Loan Prime Rate,CNY,ora,4.20%,4.20%,4.20%
+131203,Oct 19,10:05pm,Credit Card Spending y/y,NZD,yel,3.3%,,4.3%
+132156,Oct 20,2:00am,German PPI m/m,EUR,yel,-0.2%,0.4%,0.3%
+133572,Oct 20,,Retail Sales m/m,GBP,red,-0.9%,-0.3%,0.4%
+133584,Oct 20,,Public Sector Net Borrowing,GBP,yel,13.5B,17.6B,10.6B
+131574,Oct 20,4:32am,Foreign Direct Investment ytd/y,CNY,yel,-8.4%,,-5.1%
+132849,Oct 20,8:30am,Core Retail Sales m/m,CAD,ora,0.1%,-0.1%,1.1%
+132848,Oct 20,,Retail Sales m/m,CAD,ora,-0.1%,-0.1%,0.4%
+136747,Oct 20,9:00am,FOMC Member Harker Speaks,USD,ora,,,
+130517,Oct 20,4:00pm,Federal Budget Balance,USD,yel,-171.0B,-164.5B,89.3B
+132280,Oct 20,,FOMC Financial Stability Report,USD,yel,,,
+130680,Oct 22,All Day,Bank Holiday,NZD,gra,,,
+131716,Oct 23,6:00am,German Buba Monthly Report,EUR,yel,,,
+132174,Oct 23,10:00am,Consumer Confidence,EUR,yel,-18,-18,-18
+131832,Oct 23,6:00pm,Flash Manufacturing PMI,AUD,yel,48.0,,48.7
+131844,Oct 23,,Flash Services PMI,AUD,yel,47.6,,51.8
+128829,Oct 23,8:30pm,Flash Manufacturing PMI,JPY,yel,48.5,48.9,48.5
+128865,Oct 24,1:00am,BOJ Core CPI y/y,JPY,yel,3.4%,3.3%,3.3%
+131728,Oct 24,2:00am,German GfK Consumer Climate,EUR,yel,-28.1,-26.8,-26.7
+133483,Oct 24,,Claimant Count Change,GBP,red,20.4K,2.3K,-9.0K
+133482,Oct 24,,Unemployment Rate,GBP,yel,4.2%,4.3%,4.3%
+131989,Oct 24,3:15am,French Flash Manufacturing PMI,EUR,red,42.6,44.4,44.2
+132001,Oct 24,,French Flash Services PMI,EUR,red,46.1,44.9,44.4
+132013,Oct 24,3:30am,German Flash Manufacturing PMI,EUR,red,40.7,40.1,39.6
+132020,Oct 24,,German Flash Services PMI,EUR,red,48.0,50.1,50.3
+137299,Oct 24,4:00am,RBA Gov Bullock Speaks,AUD,red,,,
+132034,Oct 24,,Flash Manufacturing PMI,EUR,ora,43.0,43.6,43.4
+132045,Oct 24,,Flash Services PMI,EUR,ora,47.8,48.7,48.7
+132044,Oct 24,4:30am,Flash Manufacturing PMI,GBP,red,45.2,44.7,44.3
+132073,Oct 24,,Flash Services PMI,GBP,red,49.2,49.4,49.3
+132916,Oct 24,6:00am,CBI Industrial Order Expectations,GBP,yel,-26,-16,-18
+132875,Oct 24,8:30am,NHPI m/m,CAD,yel,-0.2%,0.1%,0.1%
+137461,Oct 24,,ECB President Lagarde Speaks,EUR,yel,,,
+132238,Oct 24,9:45am,Flash Manufacturing PMI,USD,red,50.0,49.5,49.8
+132251,Oct 24,,Flash Services PMI,USD,red,50.9,49.9,50.1
+130100,Oct 24,9:59am,Richmond Manufacturing Index,USD,ora,3,3,5
+131017,Oct 24,8:30pm,CPI q/q,AUD,red,1.2%,1.1%,0.8%
+132789,Oct 24,,CPI y/y,AUD,red,5.6%,5.3%,5.2%
+131021,Oct 24,,Trimmed Mean CPI q/q,AUD,red,1.2%,1.0%,1.0%
+131340,Oct 25,4:00am,Credit Suisse Economic Expectations,CHF,yel,-37.8,,-27.6
+131697,Oct 25,,German ifo Business Climate,EUR,red,86.9,85.9,85.8
+132508,Oct 25,,M3 Money Supply y/y,EUR,yel,-1.2%,-1.7%,-1.3%
+132509,Oct 25,,Private Loans y/y,EUR,yel,0.8%,1.0%,1.0%
+131593,Oct 25,9:00am,CB Leading Index m/m,CNY,yel,-0.3%,,-0.4%
+133957,Oct 25,,Belgian NBB Business Climate,EUR,yel,-16.8,-14.7,-14.4
+128267,Oct 25,10:00am,BOC Monetary Policy Report,CAD,red,,,
+128249,Oct 25,,BOC Rate Statement,CAD,red,,,
+128241,Oct 25,,Overnight Rate,CAD,red,5.00%,5.00%,5.00%
+129932,Oct 25,,New Home Sales,USD,ora,759K,678K,676K
+129441,Oct 25,10:30am,Crude Oil Inventories,USD,yel,1.4M,-0.5M,-4.5M
+128271,Oct 25,11:00am,BOC Press Conference,CAD,red,,,
+137462,Oct 25,1:00pm,ECB President Lagarde Speaks,EUR,ora,,,
+137463,Oct 25,4:35pm,Fed Chair Powell Speaks,USD,red,,,
+137550,Oct 25,6:00pm,RBA Gov Bullock Speaks,AUD,red,,,
+128896,Oct 25,7:50pm,SPPI y/y,JPY,yel,2.1%,2.0%,2.1%
+131033,Oct 25,8:30pm,Import Prices q/q,AUD,yel,0.8%,0.2%,-0.8%
+129402,Oct 26,3:00am,Spanish Unemployment Rate,EUR,yel,11.8%,11.5%,11.6%
+132904,Oct 26,6:00am,CBI Realized Sales,GBP,yel,-36,-16,-14
+132454,Oct 26,8:15am,Main Refinancing Rate,EUR,red,4.50%,4.50%,4.50%
+132455,Oct 26,,Monetary Policy Statement,EUR,red,,,
+129810,Oct 26,8:30am,Advance GDP q/q,USD,red,4.9%,4.5%,2.1%
+130242,Oct 26,,Unemployment Claims,USD,red,210K,208K,200K
+129809,Oct 26,,Advance GDP Price Index q/q,USD,ora,3.5%,2.7%,1.7%
+129893,Oct 26,,Core Durable Goods Orders m/m,USD,ora,0.5%,0.2%,0.5%
+129894,Oct 26,,Durable Goods Orders m/m,USD,ora,4.7%,1.9%,0.1%
+130143,Oct 26,,Goods Trade Balance,USD,yel,-85.8B,-86.2B,-84.6B
+130142,Oct 26,,Prelim Wholesale Inventories m/m,USD,yel,0.0%,0.1%,-0.1%
+132453,Oct 26,8:45am,ECB Press Conference,EUR,red,,,
+137464,Oct 26,9:00am,FOMC Member Waller Speaks,USD,ora,,,
+131255,Oct 26,10:00am,Pending Home Sales m/m,USD,ora,1.1%,-2.0%,-7.1%
+128469,Oct 26,10:30am,Natural Gas Storage,USD,yel,74B,82B,97B
+137300,Oct 26,12:45pm,MPC Member Cunliffe Speaks,GBP,yel,,,
+128839,Oct 26,7:30pm,Tokyo Core CPI y/y,JPY,ora,2.7%,2.5%,2.5%
+131025,Oct 26,8:30pm,PPI q/q,AUD,yel,1.8%,0.7%,0.5%
+129415,Oct 27,3:00am,Spanish Flash GDP q/q,EUR,yel,0.3%,0.2%,0.5%
+138390,Oct 27,All Day,Euro Summit,EUR,red,,,
+129824,Oct 27,8:30am,Core PCE Price Index m/m,USD,red,0.3%,0.3%,0.1%
+129846,Oct 27,,Personal Income m/m,USD,yel,0.3%,0.4%,0.4%
+129845,Oct 27,,Personal Spending m/m,USD,yel,0.7%,0.5%,0.4%
+137465,Oct 27,9:00am,FOMC Member Barr Speaks,USD,yel,,,
+130442,Oct 27,10:00am,Revised UoM Consumer Sentiment,USD,red,63.8,63.0,63.0
+130441,Oct 27,,Revised UoM Inflation Expectations,USD,yel,4.2%,,3.8%
+133612,Oct 28,10:00pm,Daylight Saving Time Shift,CHF,gra,,,
+133611,Oct 28,,Daylight Saving Time Shift,EUR,gra,,,
+133608,Oct 28,,Daylight Saving Time Shift,GBP,gra,,,
+131136,Oct 29,8:30pm,Retail Sales m/m,AUD,ora,,0.3%,0.2%
+131780,Oct 30,All Day,German Prelim CPI m/m,EUR,red,,0.2%,0.3%
+131388,Oct 30,4:00am,KOF Economic Barometer,CHF,yel,,95.7,95.9
+129377,Oct 30,,Spanish Flash CPI y/y,EUR,red,,3.8%,3.5%
+132157,Oct 30,5:00am,German Prelim GDP q/q,EUR,yel,,-0.2%,0.0%
+133224,Oct 30,5:30am,M4 Money Supply m/m,GBP,yel,,0.1%,0.2%
+133226,Oct 30,,Mortgage Approvals,GBP,yel,,44K,45K
+133225,Oct 30,,Net Lending to Individuals m/m,GBP,yel,,2.4B,2.9B
+130969,Oct 30,5:45pm,Building Consents m/m,NZD,yel,,,-6.7%
+128818,Oct 30,7:30pm,Unemployment Rate,JPY,yel,,2.6%,2.7%
+128975,Oct 30,7:50pm,Prelim Industrial Production m/m,JPY,yel,,2.4%,-0.7%
+128988,Oct 30,,Retail Sales y/y,JPY,yel,,6.0%,7.1%
+131191,Oct 30,8:00pm,ANZ Business Confidence,NZD,yel,,,1.5
+133377,Oct 30,8:01pm,BRC Shop Price Index y/y,GBP,yel,,,6.2%
+131087,Oct 30,8:30pm,Private Sector Credit m/m,AUD,yel,,0.3%,0.4%
+131463,Oct 30,9:30pm,Manufacturing PMI,CNY,red,,50.2,50.2
+131464,Oct 30,,Non-Manufacturing PMI,CNY,ora,,51.8,51.7
+128160,Oct 30,Tentative,BOJ Outlook Report,JPY,red,,,
+128161,Oct 30,Tentative,BOJ Policy Rate,JPY,red,,-0.10%,-0.10%
+128162,Oct 30,Tentative,Monetary Policy Statement,JPY,red,,,
+128219,Oct 31,1:00am,Consumer Confidence,JPY,yel,,35.1,35.2
+128205,Oct 31,,Housing Starts y/y,JPY,yel,,-6.1%,-9.4%
+131960,Oct 31,2:30am,French Consumer Spending m/m,EUR,yel,,0.3%,-0.5%
+133760,Oct 31,,French Flash GDP q/q,EUR,yel,,0.1%,0.5%
+128163,Oct 31,Tentative,BOJ Press Conference,JPY,red,,,
+131764,Oct 31,3:00am,German Import Prices m/m,EUR,yel,,0.4%,0.4%
+131793,Oct 31,,German Retail Sales m/m,EUR,yel,,0.5%,-1.2%
+131376,Oct 31,3:30am,Retail Sales y/y,CHF,yel,,-1.2%,-1.8%
+131924,Oct 31,3:45am,French Prelim CPI m/m,EUR,yel,,0.2%,-0.5%
+129334,Oct 31,5:00am,Italian Prelim GDP q/q,EUR,yel,,0.1%,-0.4%
+138386,Oct 31,Tentative,German 30-y Bond Auction,EUR,yel,,,2.87|2.9
+132681,Oct 31,6:00am,Core CPI Flash Estimate y/y,EUR,ora,,4.2%,4.5%
+132682,Oct 31,,CPI Flash Estimate y/y,EUR,ora,,3.1%,4.3%
+129320,Oct 31,,Italian Prelim CPI m/m,EUR,yel,,0.4%,0.2%
+132765,Oct 31,,Prelim Flash GDP q/q,EUR,yel,,0.0%,0.1%
+129071,Oct 31,Tentative,Italian 10-y Bond Auction,EUR,yel,,,4.93|1.4
+132562,Oct 31,8:30am,GDP m/m,CAD,red,,0.1%,0.0%
+129661,Oct 31,,Employment Cost Index q/q,USD,red,,1.0%,1.0%
+130037,Oct 31,9:00am,S&P/CS Composite-20 HPI y/y,USD,ora,,1.8%,0.1%
+129583,Oct 31,,HPI m/m,USD,yel,,0.5%,0.8%
+130073,Oct 31,9:45am,Chicago PMI,USD,ora,,45.0,44.1
+130529,Oct 31,10:00am,CB Consumer Confidence,USD,red,,100.1,103.0
+138387,Oct 31,12:00pm,German Buba President Nagel Speaks,EUR,yel,,,
+128295,Oct 31,4:00pm,RBNZ Financial Stability Report,NZD,yel,,,
+130957,Oct 31,5:45pm,Employment Change q/q,NZD,red,,0.4%,1.0%
+130958,Oct 31,,Unemployment Rate,NZD,red,,3.9%,3.6%
+130992,Oct 31,,Labor Cost Index q/q,NZD,yel,,1.0%,1.1%
+138126,Oct 31,6:00pm,RBNZ Gov Orr Speaks,NZD,ora,,,
+131123,Oct 31,8:30pm,Building Approvals m/m,AUD,yel,,2.6%,7.0%
+128799,Oct 31,,Final Manufacturing PMI,JPY,yel,,49.0,48.5
+131488,Oct 31,9:45pm,Caixin Manufacturing PMI,CNY,ora,,50.8,50.6
+130624,Nov 1,1:30am,Commodity Prices y/y,AUD,yel,,,-22.0%
+133317,Nov 1,3:00am,Nationwide HPI m/m,GBP,yel,,-0.3%,0.0%
+133756,Nov 1,All Day,French Bank Holiday,EUR,gra,,,
+133751,Nov 1,All Day,Italian Bank Holiday,EUR,gra,,,
+129108,Nov 1,4:30am,Manufacturing PMI,CHF,yel,,45.0,44.9
+129154,Nov 1,5:30am,Final Manufacturing PMI,GBP,yel,,45.2,45.2
+133623,Nov 1,8:15am,ADP Non-Farm Employment Change,USD,red,,141K,89K
+138130,Nov 1,8:40am,SNB Chairman Jordan Speaks,CHF,ora,,,
+130461,Nov 1,9:30am,Manufacturing PMI,CAD,yel,,,47.5
+130474,Nov 1,9:45am,Final Manufacturing PMI,USD,yel,,50.0,50.0
+130025,Nov 1,10:00am,ISM Manufacturing PMI,USD,red,,49.0,49.0
+132227,Nov 1,,JOLTS Job Openings,USD,red,,9.27M,9.61M
+130024,Nov 1,,ISM Manufacturing Prices,USD,ora,,44.9,43.8
+129969,Nov 1,,Construction Spending m/m,USD,yel,,0.4%,0.5%
+130548,Nov 1,All Day,Wards Total Vehicle Sales,USD,yel,,15.3M,15.7M
+129442,Nov 1,10:30am,Crude Oil Inventories,USD,yel,,,1.4M
+128399,Nov 1,2:00pm,Federal Funds Rate,USD,red,,5.50%,5.50%
+128407,Nov 1,,FOMC Statement,USD,red,,,
+128419,Nov 1,2:30pm,FOMC Press Conference,USD,red,,,
+128194,Nov 1,7:50pm,Monetary Base y/y,JPY,yel,,5.9%,5.6%
+131112,Nov 1,8:30pm,Goods Trade Balance,AUD,yel,,9.58B,9.64B
+128779,Nov 1,11:35pm,10-y Bond Auction,JPY,yel,,,0.77|3.9
+131401,Nov 2,3:30am,CPI m/m,CHF,red,,0.1%,-0.1%
+131905,Nov 2,3:45am,French Gov Budget Balance,EUR,yel,,,-187.9B
+131330,Nov 2,4:00am,SECO Consumer Climate,CHF,yel,,-25,-27
+129093,Nov 2,4:15am,Spanish Manufacturing PMI,EUR,yel,,47.4,47.7
+129085,Nov 2,4:45am,Italian Manufacturing PMI,EUR,yel,,46.5,46.8
+129121,Nov 2,4:50am,French Final Manufacturing PMI,EUR,yel,,42.6,42.6
+129145,Nov 2,4:55am,German Final Manufacturing PMI,EUR,yel,,40.7,40.7
+131740,Nov 2,,German Unemployment Change,EUR,yel,,15K,10K
+129133,Nov 2,5:00am,Final Manufacturing PMI,EUR,yel,,43.0,43.0
+129353,Nov 2,Tentative,Spanish 10-y Bond Auction,EUR,yel,,,4.07|2.1
+129358,Nov 2,Tentative,French 10-y Bond Auction,EUR,yel,,,3.56|1.9
+130086,Nov 2,7:30am,Challenger Job Cuts y/y,USD,yel,,,58.2%
+133254,Nov 2,8:00am,BOE Monetary Policy Report,GBP,red,,,
+133247,Nov 2,,Monetary Policy Summary,GBP,red,,,
+133246,Nov 2,,MPC Official Bank Rate Votes,GBP,red,,2-0-7,4-0-5
+133245,Nov 2,,Official Bank Rate,GBP,red,,5.25%,5.25%
+138385,Nov 2,8:30am,BOE Gov Bailey Speaks,GBP,red,,,
+130243,Nov 2,,Unemployment Claims,USD,red,,210K,210K
+129771,Nov 2,,Prelim Nonfarm Productivity q/q,USD,yel,,4.1%,3.5%
+129770,Nov 2,,Prelim Unit Labor Costs q/q,USD,yel,,0.7%,2.2%
+129909,Nov 2,10:00am,Factory Orders m/m,USD,yel,,1.8%,1.2%
+128470,Nov 2,10:30am,Natural Gas Storage,USD,yel,,,74B
+138133,Nov 2,1:00pm,SNB Chairman Jordan Speaks,CHF,ora,,,
+133660,Nov 2,All Day,Bank Holiday,JPY,gra,,,
+131489,Nov 2,9:45pm,Caixin Services PMI,CNY,ora,,51.2,50.2
+130683,Nov 2,Tentative,RBNZ Statement of Intent,NZD,ora,,,
+132158,Nov 3,3:00am,German Trade Balance,EUR,yel,,16.3B,16.6B
+129285,Nov 3,3:45am,French Industrial Production m/m,EUR,yel,,0.0%,-0.3%
+131910,Nov 3,,French Prelim Private Payrolls q/q,EUR,yel,,0.2%,0.1%
+129380,Nov 3,4:00am,Spanish Unemployment Change,EUR,yel,,,19.8K
+129260,Nov 3,5:00am,Italian Monthly Unemployment Rate,EUR,yel,,7.4%,7.3%
+129219,Nov 3,5:30am,Final Services PMI,GBP,yel,,49.2,49.2
+132748,Nov 3,6:00am,Unemployment Rate,EUR,yel,,6.4%,6.4%
+138391,Nov 3,8:00am,FOMC Member Barr Speaks,USD,yel,,,
+138136,Nov 3,8:15am,MPC Member Pill Speaks,GBP,yel,,,
+132537,Nov 3,8:30am,Employment Change,CAD,red,,24.6K,63.8K
+132538,Nov 3,,Unemployment Rate,CAD,red,,5.6%,5.5%
+129754,Nov 3,,Average Hourly Earnings m/m,USD,red,,0.3%,0.2%
+129752,Nov 3,,Non-Farm Employment Change,USD,red,,182K,336K
+129753,Nov 3,,Unemployment Rate,USD,red,,3.8%,3.8%
+130486,Nov 3,9:45am,Final Services PMI,USD,yel,,50.9,50.9
+130062,Nov 3,10:00am,ISM Services PMI,USD,red,,53.2,53.6
+138139,Nov 3,12:00pm,MPC Member Haskel Speaks,GBP,yel,,,
